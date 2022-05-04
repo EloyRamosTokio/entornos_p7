@@ -45,6 +45,10 @@ public class Metodos {
 		return color;
 		
 	}
+	public int multiplicación(int n) {
+		int res =n*n;
+		return res;
+	}
 	
 	
 }
